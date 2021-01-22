@@ -1,0 +1,24 @@
+{
+  "name": "takeoffs-and-emergencies",
+  "version": "1.0.0",
+  "description": "Hackathon Chutes & Ladders Game",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "Kelsey Schroeder & Leslie Meng",
+  "license": "MIT",
+  "dependencies": {
+    "express": "latest",
+    "express.io": "latest",
+    "physijs": "^1.0.4",
+    "socket-io": "^1.0.0",
+    "socket.io": "^2.3.0",
+    "three": "^0.124.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "tbd"
+  }
+}
